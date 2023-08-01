@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chole_bhature_CRM/static/css/main.073c9b0a.css",
+    "main.js": "/chole_bhature_CRM/static/js/main.73e3f66e.js",
+    "static/js/787.cda612ba.chunk.js": "/chole_bhature_CRM/static/js/787.cda612ba.chunk.js",
+    "index.html": "/chole_bhature_CRM/index.html",
+    "main.073c9b0a.css.map": "/chole_bhature_CRM/static/css/main.073c9b0a.css.map",
+    "main.73e3f66e.js.map": "/chole_bhature_CRM/static/js/main.73e3f66e.js.map",
+    "787.cda612ba.chunk.js.map": "/chole_bhature_CRM/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73e3f66e.js"
+  ]
+}
