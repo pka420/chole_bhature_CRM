@@ -37,8 +37,9 @@ const CustomerContactTable = () => {
         isError,
         error
     } = useGetContactsQuery()
-
-    const rows = CustomerContacts.map((row) => (
+    
+    let rows = []; 
+    rows = CustomerContacts?.map((row) => (
         <tr key={row.employeeId}>
             <td>{row.firstName + ' ' + row.lastName} </td>
             <td>{row.email}</td>
