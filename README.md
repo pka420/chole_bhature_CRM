@@ -1,6 +1,8 @@
 # chole_bhature_CRM
 CRM for ghw, based on our restraunt serving chole bhature breakfast.
 
+We are live here: https://pka420.github.io/chole_bhature_CRM/
+
 ## Tools:
 
 Frontend
@@ -14,4 +16,4 @@ google-sheets api
 - [ ] Create simple Dashboard with username, and avatar.
 - [ ] Create backend apis
 - [ ] Create graph showing today's sales.
-- [ ] Create contact cards for employees and customers.
+- [X] Create contact table for employees and customers.
